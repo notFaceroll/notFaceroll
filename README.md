@@ -36,7 +36,7 @@ If you really reach this far, I can pretty much say that you don't have nothing 
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_notfaceroll/)]( https://www.instagram.com/_notfaceroll/)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/notfaceroll)]( https://www.twitch.tv/notfaceroll)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-miguel-2b2682191/)](https://www.linkedin.com/in/jorge-miguel-2b2682191/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-miguel-mesquita-2b2682191/)](https://www.linkedin.com/in/jorge-miguel-mesquita-2b2682191/)
 
 
 
