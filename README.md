@@ -25,9 +25,9 @@ Typescript, VUE, Angular, as well as learning UI/UX designing skills and its too
 
 ### Random facts
 
-- 🎮 I used to study C# as a hobby too(actually it was the first programming language that I studied), to create games on Unity Engine;
+- 🎮 I used to study C# as a hobby (actually it was the first programming language that I studied), to create games on Unity Engine;
 - 🎼 One of my other hobbies is play/practice guitar, which I actually came back after a long time (12 years +/-);
-- 📖 I can easily lose track of time when study other languages, such as Japanese (yeah, I'm trying), or playing games (I gave up on MMO's).
+- 📖 I can easily lose track of time when study other languages, such as Japanese (yeah, I'm trying), or playing games (specially RPGs).
 
 
 ## Find me elsewhere 🗺️
