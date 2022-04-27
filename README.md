@@ -3,7 +3,7 @@
 
 After a couple years of taking programming languages just as hobby, I revinvented myself as a front-end developer (and I hope it is for the best). I can say without a second thought that I am addicted to CSS and I intend to continue studying/practicing to improve/master it. It was like love at first sight. 
 
-At this point I am always trying to improve skills I already have or learn something new. Kind of part of the routine, you know? With the difference that I LIKE it, it's enjoyable.
+At this point I am always trying to improve skills I already have or learn something new. It's a enjoyable routine.
 
 
 ### Some related points
