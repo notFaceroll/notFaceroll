@@ -32,7 +32,7 @@ Typescript, VUE, Angular, as well as learning UI/UX designing skills and its too
 
 ## Find me elsewhere 🗺️
 
-If you really reach this far, I can pretty much say that you don't have nothing else better to do. But hey, if you want to play something or talk about these coding things, you can hit me up on:
+Have something to talk? Hit me up on:
 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_notfaceroll/)]( https://www.instagram.com/_notfaceroll/)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/notfaceroll)]( https://www.twitch.tv/notfaceroll)
