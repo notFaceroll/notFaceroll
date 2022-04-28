@@ -37,6 +37,7 @@ Have something to talk? Hit me up on:
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/_notfaceroll/)]( https://www.instagram.com/_notfaceroll/)
 [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white&link=https://www.twitch.tv/notfaceroll)]( https://www.twitch.tv/notfaceroll)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/jorge-miguel-mesquita)](https://www.linkedin.com/in/jorge-miguel-mesquita)
+[![CodePen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/notfaceroll)
 
 
 
