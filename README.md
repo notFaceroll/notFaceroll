@@ -37,8 +37,8 @@
   <img align="center" alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
   <img align="center" alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white" />
   <img align="center" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=flat&logo=postgresql&logoColor=white" />
-  <img align="center" alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=flate&logo=ruby&logoColor=white" />
-  <img align="center" alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white" />
+ <!-- <img align="center" alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=flate&logo=ruby&logoColor=white" /> -->
+ <!-- <img align="center" alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white" /> -->
   <img align="center" alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white" />
 </div>
 
