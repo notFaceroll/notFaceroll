@@ -7,6 +7,8 @@
   [![Twitch Badge](https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white&link=https://www.twitch.tv/notfaceroll)]( https://www.twitch.tv/notfaceroll)
   [![CodePen](https://img.shields.io/badge/Codepen-000000?style=flat&logo=codepen&logoColor=white)](https://codepen.io/notfaceroll)
   
+  
+  
 </div>
 
 <blockquote>Im currently studying and practicing on a daily basis to become a Front-end Developer!</blockquote>
@@ -26,6 +28,9 @@
     <img align="center" alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white" />
     <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB" />
     <img align="center" alt="NextJS" src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" />
+    <img align="center" alt="Sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat&logo=SASS&logoColor=white" />
+    <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white" />
+    
   </div>
   
 <br/>
@@ -41,6 +46,7 @@
  <!-- <img align="center" alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white" /> -->
   <img align="center" alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white" />
   <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
+  <img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white" />
 </div>
 <br/>
 <br/>
