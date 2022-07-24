@@ -40,8 +40,8 @@
  <!-- <img align="center" alt="Ruby" src="https://img.shields.io/badge/ruby-%23CC342D.svg?style=flate&logo=ruby&logoColor=white" /> -->
  <!-- <img align="center" alt="Rails" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=flat&logo=ruby-on-rails&logoColor=white" /> -->
   <img align="center" alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?style=flat&logo=jest&logoColor=white" />
+  <img align="center" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" />
 </div>
-
 <br/>
 <br/>
 
