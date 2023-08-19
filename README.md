@@ -15,10 +15,8 @@
 
 <br />
 
-<h3>🖥️ Tech Stack</h3>
+<h3>Stack</h3>
 
-
-  
 <p>These are the stuff that I have some knowledge and I'm <strong>enhancing</strong></p>
 
   <div style="display: inline_block">
